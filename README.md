@@ -10,9 +10,9 @@
 
 ## About Me 🚀
 
-- 🌱 I’m a **Pre-Final year B.Tech-IT-student** at <a href="https://www.sonatech.ac.in/" target="blank">Sona college of Technology
+- 🌱 I’m a **Pre-Final year B.Tech-IT-student** at <a href="https://www.sonatech.ac.in/" target="_blank">Sona college of Technology
   </a> 👩‍🎓
-- 💻 I am doing **ML Intern** at <a href="https://www.thesmartbridge.com/" target="blank">SmartBridge
+- 💻 I am doing **ML Intern** at <a href="https://www.thesmartbridge.com/" target="_blank">SmartBridge
   </a> 👩‍💻
 - ✨ I’m a **Competitive Programmer** ✔
 - 🧠 Nowadays I'm learning **web development** and also Focusing on **Coding**.
@@ -24,15 +24,15 @@
 ## My Coding Profiles ✔ 
 
 <h3>
-  <a href="https://leetcode.com/1an5i6ani/" target="blank">LeetCode
+  <a href="https://leetcode.com/1an5i6ani/" target="_blank">LeetCode
   </a>
 </h3>
 <h3>
-  <a href="https://www.hackerrank.com/IT_1919106032?hr_r=1" target="blank">HackerRank
+  <a href="https://www.hackerrank.com/IT_1919106032?hr_r=1" target="_blank">HackerRank
   </a>
 </h3>
 <h3>
-  <a href="https://www.codechef.com/users/jansi_19" target="blank">CodeChef
+  <a href="https://www.codechef.com/users/jansi_19" target="_blank">CodeChef
   </a>
 </h3>
 
