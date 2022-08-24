@@ -10,7 +10,7 @@
 
 ## About Me 🚀
 
-- 🌱 I’m a **Pre-Final year B.Tech-IT-student** at <a href="https://www.sonatech.ac.in/" target="_blank">Sona college of Technology
+- 🌱 I’m a **Final year B.Tech-IT-student** at <a href="https://www.sonatech.ac.in/" target="_blank">Sona college of Technology
   </a> 👩‍🎓
 - 💻 I am doing **ML Intern** at <a href="https://www.thesmartbridge.com/" target="_blank">SmartBridge
   </a> 👩‍💻
