@@ -22,15 +22,15 @@
 ## My Coding Profiles 👩‍💻
 
 <h3>
-  <a href="https://leetcode.com/Deligent_tiger/" target="_blank">LeetCode ✔ 
+  <a href="https://leetcode.com/Deligent_tiger/" target="_blank">LeetCode ✅
   </a>
 </h3>
 <h3>
-  <a href="https://www.hackerrank.com/IT_1919106032?hr_r=1" target="_blank">HackerRank ✔ 
+  <a href="https://www.hackerrank.com/IT_1919106032?hr_r=1" target="_blank">HackerRank ✅
   </a>
 </h3>
 <h3>
-  <a href="https://www.codechef.com/users/jansi_19" target="_blank">CodeChef ✔ 
+  <a href="https://www.codechef.com/users/jansi_19" target="_blank">CodeChef ✅
   </a>
 </h3>
 
