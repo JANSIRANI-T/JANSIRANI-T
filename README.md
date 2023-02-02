@@ -10,21 +10,19 @@
 
 ## About Me 🚀
 
-- 🌱 I’m a **Final year B.Tech-IT-student** at <a href="https://www.sonatech.ac.in/" target="_blank">Sona college of Technology
-  </a> 👩‍🎓
-- 💻 I am doing **ML Intern** at <a href="https://www.thesmartbridge.com/" target="_blank">SmartBridge
+- 💻 I am a **Software developer Intern** at <a href="https://www.thesmartbridge.com/" target="_blank">IBM.
   </a> 👩‍💻
 - ✨ I’m a **Competitive Programmer** ✔
-- 🧠 Nowadays I'm learning **web development** and also Focusing on **Coding**.
+- 🧠 I'm an **Enthusiastic Learner**.
 - 📫 Reach me out with my Email- jansirani23it@gmail.com
-- ✅ I'm an **Active coder** in **LeetCode,Hackerrank,codeChef** and **codeForces**.
+- ✅ I'm an **Active coder** at **LeetCode**.
 
 # 
 
 ## My Coding Profiles 👩‍💻
 
 <h3>
-  <a href="https://leetcode.com/1an5i6ani/" target="_blank">LeetCode ✔ 
+  <a href="https://leetcode.com/Deligent_tiger/" target="_blank">LeetCode ✔ 
   </a>
 </h3>
 <h3>
