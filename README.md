@@ -10,7 +10,7 @@
 
 ## About Me 🚀
 
-- 💻 I am a **Software developer Intern** at <a href="https://www.ibm.com/in-en" target="_blank">IBM.
+- 💻 I am a **Software developer** at <a href="https://www.ibm.com/in-en" target="_blank">IBM.
   </a> 👩‍💻
 - ✨ I’m a **Competitive Programmer** ✔
 - 🧠 I'm an **Enthusiastic Learner**.
